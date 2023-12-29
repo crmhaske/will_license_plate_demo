@@ -1,0 +1,6 @@
+database:
+    name: mill_traffic_records
+    location: /Users/christie.marsh/Documents/license_plates
+file_paths:
+    arrivals: /Users/christie.marsh/Documents/license_plates/arrivals
+    departures: /Users/christie.marsh/Documents/license_plates/departures
