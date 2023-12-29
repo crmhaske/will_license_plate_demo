@@ -4,3 +4,4 @@ database:
 file_paths:
     arrivals: /Users/christie.marsh/Documents/license_plates/arrivals
     departures: /Users/christie.marsh/Documents/license_plates/departures
+    images: /Users/christie.marsh/Documents/license_plates/images
